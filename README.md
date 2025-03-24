@@ -25,6 +25,7 @@ Profit/Loss breakdown displayed in a horizontal bar chart using blue (profit) an
 Detailed line plots track weekly sales and profit trends.
 
 Segments are visually distinguished by performance above (blue) or below (orange) the average.
+![Sales Dashboard 2023](./image.png)
 
 👥 Customer Dashboard | 2023 Insights
 This Customer Dashboard offers a detailed look at customer behavior and performance metrics for the year 2023. It's built to help teams understand customer value, engagement, and profitability trends across the year.
@@ -64,4 +65,5 @@ Last order date
 2023 profit and sales
 
 Number of orders
+![Customer Dashboard 2023](./image.png)
 
