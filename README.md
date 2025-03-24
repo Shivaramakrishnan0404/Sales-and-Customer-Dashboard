@@ -1,4 +1,4 @@
-📊 Sales Dashboard | 2023 Overview
+# 📊 Sales Dashboard | 2023 Overview
 This interactive Sales Dashboard provides a comprehensive view of sales performance for the year 2023, compared to 2022. It's designed for quick insights into overall business health, monthly trends, and subcategory performance.
 Please find the Dashboard here : (https://public.tableau.com/app/profile/shivaramakrishnan.rajendran/viz/SalesandCustomerDashboard_17235402832010/Sales)
 
@@ -52,7 +52,7 @@ Total Orders
 
 Highest and lowest months marked with blue and orange dots for clarity.
 
-📊 Customer Insights:
+# 📊 Customer Insights:
 Customer Distribution by Number of Orders:
 Bar chart showing how many customers placed 1, 2, 3, etc. orders — most customers placed between 1–3 orders in 2023.
 
